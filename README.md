@@ -2,6 +2,7 @@
 
 //alterado viviane
  alterado 2
+ alterado 3
 > Curated list of awesome visual regression testing resources.
 
 Regression testing is a type of software testing which verifies that software which was previously developed and tested still performs the same way after it was changed or interfaced with other software. The purpose of regression testing is to ensure that changes to the software have not introduced new faults.
